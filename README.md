@@ -1,5 +1,9 @@
 <div align="center">
   
+  ![./hacker.png](./hacker.png)
+
+  <h2> Mitch Hines </h2>
+  
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m57.m57)
   [![Twitter: _g0dmode](https://img.shields.io/twitter/follow/_g0dmode?style=social)](https://twitter.com/_g0dmode)
   [![Linkedin: mitchellhines](https://img.shields.io/badge/-mitchellhines-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitchell-hines/)](https://www.linkedin.com/in/mitchell-hines/)
@@ -8,22 +12,17 @@
   [![Morpheus](https://media.giphy.com/media/IdVH6Y6iHI1H2/giphy.gif)](https://media.giphy.com/media/IdVH6Y6iHI1H2/giphy.gif)
 
   <hr />
-
-  ![./hacker.png](./hacker.png)
   
 </div>
-  
-## g0dmode's GitHub
 
-I put together a small Red Team guide below, I should really update this more.
+# :wave: Welcome to my GitHub
 
-Red Team Codex: [https://www.g0dmode.biz/](https://www.g0dmode.biz/)
+I put together a small guide for Red Teaming called [Red Team Codex](https://www.g0dmode.biz/), I should really update this more.
 
-Some quick stuff:
+Stuff:
 
-* CHECK Team Leader (Infrastructure & Applications)
-* Red Team Leader 
-* Implant / Offensive Development
-* Windows Internals
-* C++ / C / Golang / .NET / Python
-
+- :godmode: CHECK Team Leader (Infrastructure & Applications)
+- :clown_face: Red Team Leader (CCSAS)
+- :gun: Implant Development / Offensive Development
+- :nut_and_bolt: Windows Internals
+- :computer: C++ / C / Golang / .NET / Python
