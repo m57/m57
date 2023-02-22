@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+<div align="center">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=m57.m57)
+[![Twitter: _g0dmode](https://img.shields.io/twitter/follow/_g0dmode?style=social)](https://twitter.com/_g0dmode)
+[![Linkedin: mitchell-hines](https://img.shields.io/badge/-mitchell-hines-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitchell-hines/)](https://www.linkedin.com/in/mitchell-hines/)
+[![GitHub m57](https://img.shields.io/github/followers/m57?label=follow&style=social)](https://github.com/m57)
+
+[![Obiwan-Hello-There](https://media.giphy.com/media/IdVH6Y6iHI1H2/giphy.gif)](https://media.giphy.com/media/IdVH6Y6iHI1H2/giphy.gif)     
+</div>
+
+<hr />
+
+## 🔧 About
+
+- Red Team Codex: ![https://www.g0dmode.biz/](https://www.g0dmode.biz/)
+
+
+* CHECK Team Leader (Infrastructure & Applications)
+* Red Team Leader 
+* Implant / Offensive Development
+* Windows Internals
+* C++ / C / Golang / .NET / Python
+
 <!--
 **m57/m57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
