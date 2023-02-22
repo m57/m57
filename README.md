@@ -19,8 +19,6 @@
 
 I put together a small guide for Red Teaming called [Red Team Codex](https://www.g0dmode.biz/), I should really update this more.
 
-Stuff:
-
 - :godmode: CHECK Team Leader (Infrastructure & Applications)
 - :clown_face: Red Team Leader (CCSAS)
 - :gun: Implant Development / Offensive Development
