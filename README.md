@@ -16,5 +16,3 @@
 </div>
 
 # :wave: Welcome to my GitHub
-
-I put together a small guide for Red Teaming called [Red Team Codex](https://www.g0dmode.biz/), I should really update this more.
