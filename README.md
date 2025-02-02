@@ -18,9 +18,3 @@
 # :wave: Welcome to my GitHub
 
 I put together a small guide for Red Teaming called [Red Team Codex](https://www.g0dmode.biz/), I should really update this more.
-
-- :godmode: CHECK Team Leader
-- :clown_face: Red Team Leader
-- :gun: Implant Development / Offensive Development
-- :nut_and_bolt: Windows Internals
-- :computer: C++ / C / Golang / .NET / Python
